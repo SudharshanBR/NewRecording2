@@ -1,13 +1,15 @@
 """
 Name : runMe.py
 Purpose : Note Recognition.
+Song of the day : Day One - Hans Zimmer
 You might be wondering multiple things, here are a few explanations. Relax, this is pretty simple.
 
 W1. How to use this file?
 1. Select an audio file (.wav || .m4a).
 2. In the "Terminal" - travel to the directory which has me.
 3. Paste the audio file in the directory.
-4. Fill this up later.
+4. Run the following command - python runMe.py <fileName>
+
 
 """
 
